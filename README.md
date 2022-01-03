@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 Hi, I’m @Eren Yılmaz
+
+👀 I’m interested in web and backend technologies like C#, .Net Core (MVC , Web API), JavaScript, React, Angular
+
+🌱 I’m currently learning Golang
+
+📫 How to reach me ... https://www.linkedin.com/in/erenyilmaz0
