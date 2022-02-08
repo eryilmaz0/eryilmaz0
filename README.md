@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m @Eren Yılmaz
+👋 Hi, I’m Eren Yılmaz
 
 👀 I’m interested in web and backend technologies like C#, .Net Core/.NET (MVC , Web API), JavaScript, React, Angular
 
