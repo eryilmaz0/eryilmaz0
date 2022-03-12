@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hi, I’m Eren Yılmaz</h2>
+<h2 align="center">👋 Hi, I’m Eren Yilmaz</h2>
 
 👀 I’m interested in web and backend technologies like C#, .Net Core/.NET (MVC , Web API), JavaScript, React, Angular
 
