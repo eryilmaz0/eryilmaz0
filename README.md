@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I am a software developer living in Turkey. I am s
 <div style="width:100%"><br /></div>
 
 <p align="center">
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?eryilmaz0" frameborder="0"></iframe>
+  <iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?eryilmaz0" frameborder="0"></iframe>
   <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eryilmaz0&hide=issue&show_icons=true&theme=nord" />
 </p>
