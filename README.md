@@ -6,8 +6,4 @@
   <a href="https://erenyilmaz0.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="30px" /></a>
 </p>
 
-👀 I’m interested in web and backend technologies like C#, .Net Core/.NET (MVC , Web API), JavaScript, React, Angular
-
-🌱 I’m currently learning .NET 6 , Vue.js, Java Spring 
-
-📫 How to reach me ... https://www.linkedin.com/in/erenyilmaz0
+Welcome to my GitHub profile! I am a software developer living in Turkey. I am sharing my projects and my new learned skills as much as I can. 
