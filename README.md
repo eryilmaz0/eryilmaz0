@@ -2,8 +2,8 @@
 <h2 align="center">👋 Hi, I’m Eren Yilmaz</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/erenyilmaz0/" target="_blank"><img align="center" src="icons/icon-linkedin.svg" alt="adem" width="30px" /></a>
-  <a href="https://ademcatamak.medium.com/" target="_blank"><img align="center" src="icons/icon-medium.svg" alt="adem" width="30px" /></a>
+  <a href="https://www.linkedin.com/in/erenyilmaz0/" target="_blank"><img align="center" src="linkedinicon.svg" alt="Linkedin" width="30px" /></a>
+  <a href="https://ademcatamak.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="30px" /></a>
 </p>
 
 👀 I’m interested in web and backend technologies like C#, .Net Core/.NET (MVC , Web API), JavaScript, React, Angular
