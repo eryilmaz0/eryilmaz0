@@ -11,6 +11,6 @@ Welcome to my GitHub profile! I am a software developer living in Turkey. I am s
 <div style="width:100%"><br /></div>
 
 <p align="center">
-  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryilmaz0&layout=compact&langs_count=8&hide_border=truef&hide=css,scss" />
+  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCatamak&layout=compact&hide=css,scss&langs_count=6&theme=nord" />
   <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eryilmaz0&hide=issue&show_icons=true&theme=nord" />
 </p>
