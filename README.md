@@ -6,7 +6,7 @@
   &nbsp;&nbsp;<a href="https://erenyilmaz0.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="30px" /></a>
 </p>
 
-Welcome to my GitHub profile! I am a software developer in Turkey. I am sharing my projects and new learned skills as much as I can. 
+Welcome to my GitHub profile. I am a backend developer. I am sharing my projects and new learned skills as much as I can. 
 
 <div style="width:100%"><br /></div>
 
