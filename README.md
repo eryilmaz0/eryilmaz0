@@ -8,8 +8,10 @@
 
 Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
 <div style="width:100%"><br /></div>
+<p align="center">
+  ## 📈 GitHub Stats
+</p>
 
-## 📈 GitHub Stats
 <p align="center">
   <img width="700" height="300" src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/0-profile-details.svg"
 </p>
