@@ -7,6 +7,7 @@
 </p>
 
 Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
+<div style="width:100%"><br /></div>
 
 ## 📈 GitHub Stats
 <p align="center">
