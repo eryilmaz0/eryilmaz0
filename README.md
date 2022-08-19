@@ -9,6 +9,7 @@
 Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
 
 <h2 align="center">📈 GitHub Stats</h2>
+[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/2077/3-stats.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
