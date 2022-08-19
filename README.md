@@ -15,6 +15,7 @@ Welcome to my GitHub profile. I am a software developer (mostly backend), I am s
   <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eryilmaz0&hide=issue&show_icons=true&theme=nord" />
 </p>
 
+<div style="width:100%"><br /></div>
 <h2 align="center">📈 GitHub Stats</h2>
 [![](./profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
 [![](./profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/dgokcin/dgokcin/tree/master/profile-summary-card-output)
