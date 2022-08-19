@@ -9,5 +9,6 @@
 Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
 
 <h2 align="center">📈 GitHub Stats</h2>
+![alt text](profile-summary-card-output/2077/0-profile-details.svg)
 <img height="320px" alt="Top Languages" src="profile-summary-card-output/2077/0-profile-details.svg />
 
