@@ -12,6 +12,6 @@ Welcome to my GitHub profile. I am a software developer (mostly backend), I am s
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img width="700" height="250" src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/0-profile-details.svg"
+  <img width="800" height="300" src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/0-profile-details.svg"
 </p>
 
