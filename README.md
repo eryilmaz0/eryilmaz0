@@ -9,6 +9,7 @@
 Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
 
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
