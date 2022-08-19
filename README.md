@@ -10,6 +10,6 @@ Welcome to my GitHub profile. I am a software developer (mostly backend), I am s
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/0-profile-details.svg"
 </p>
 
