@@ -10,5 +10,5 @@ Welcome to my GitHub profile. I am a software developer (mostly backend), I am s
 
 <h2 align="center">📈 GitHub Stats</h2>
 ![alt text](profile-summary-card-output/2077/0-profile-details.svg)
-<img height="320px" alt="Top Languages" src="profile-summary-card-output/2077/0-profile-details.svg />
+
 
