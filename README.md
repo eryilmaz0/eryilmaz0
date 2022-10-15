@@ -6,7 +6,7 @@
   &nbsp;&nbsp;<a href="https://erenyilmaz0.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="30px" /></a>
 </p>
 
-Welcome to my GitHub profile. I am a software developer (mostly backend), I am sharing my projects and new learned skills as much as I can. 
+Welcome to my GitHub profile. I am a software developer (mostly backend), and sharing my projects and new learned skills as much as I can. 
 
 
 <h2 align="center">📈 GitHub Stats</h2>
