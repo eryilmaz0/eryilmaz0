@@ -3,6 +3,13 @@
 <h3 align=center> I am a passionate backend developer who eager to learn new concepts, life-long learner and loves to share projects and new learned skills.</h3> 
 </br>
 <h2 align=center>Connect With Me</h2> 
+<p align="Middle">
+<a href="https://www.fiverr.com/users/berkayvuran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="vuranberkay" height="30" width="40" /></a>
+<a href="https://twitter.com/vuranberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vuranberkay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayvuran" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12813966" height="30" width="40" /></a>
+<a href="https://medium.com/@berkayvuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkayvuran" height="30" width="40" /></a>
+</p>
 
 <p align="Middle">
 <a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_yilmaz0" height="30" width="40" /></a>
