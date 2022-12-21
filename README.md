@@ -4,8 +4,8 @@
 </br>
 <h2 align=center>Connect With Me</h2> 
 <p align="Middle">
-<a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_yilmaz0" height="30" width="60" /></a>
-<a href="https://www.linkedin.com/in/erenyilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenyilmaz0" height="30" width="60" /></a>
+<a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_yilmaz0" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/erenyilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenyilmaz0" height="35" width="40" /></a>
 <a href="https://erenyilmaz0.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erenyilmaz0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eryilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eryilmaz0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12813966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12813966" height="30" width="40" /></a>
