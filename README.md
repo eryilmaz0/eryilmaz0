@@ -5,9 +5,9 @@
 <h2 align=center>Connect With Me</h2> </br>
 <h2 align=center>Languages and Tools</h2> 
 <p align="center">
-<a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/erenyilmaz0/" target="_blank"><img align="center" src="linkedinicon.svg" alt="Linkedin" width="30px" /></a>
-<a href="https://erenyilmaz0.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="30px" /></a>
+<a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/erenyilmaz0/" target="_blank"><img align="center" src="linkedinicon.svg" alt="Linkedin" width="40px" /></a>
+<a href="https://erenyilmaz0.medium.com/" target="_blank"><img align="center" src="mediumicon.svg" alt="Medium" width="40px" /></a>
 </p>
 
 
