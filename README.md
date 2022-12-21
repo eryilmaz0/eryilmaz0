@@ -3,12 +3,16 @@
 <h3 align=center> I am a passionate backend developer who eager to learn new concepts, life-long learner and loves to share projects and new learned skills.</h3> 
 </br>
 <h2 align=center>Connect With Me</h2> </br>
-<h2 align=center>Languages and Tools</h2> 
+
 <p align="center">
 <a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/erenyilmaz0/" target="blank"><img align="center" src="linkedinicon.svg" height="40" width="40" /></a>
   <a href="https://erenyilmaz0.medium.com/" target="blank"><img align="center" src="mediumicon.svg" height="40" width="40" /></a>
 </p>
+
+
+
+<h2 align=center>Languages and Tools</h2> 
 
 
 
