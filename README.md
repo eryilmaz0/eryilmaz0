@@ -30,7 +30,6 @@
 
 
 <p align="center">
-  <img width="688px" src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/0-profile-details.svg">
   <img src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/1-repos-per-language.svg">
   <img src="https://github.com/eryilmaz0/eryilmaz0/blob/master/profile-summary-card-output/2077/3-stats.svg">
 </p>
