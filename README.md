@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m Eren Yilmaz</h1>
-<h3 align=center>Welcome to my GitHub profile. I am a software developer (mostly backend), and sharing my projects and new learned skills as much as I can.</h3> 
+<h3 align=center> I am a passionate backend developer who eager to learn new concepts, life-long learner, loves to share projects and new learned skills.</h3> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erenyilmaz0/" target="_blank"><img align="center" src="linkedinicon.svg" alt="Linkedin" width="28px" /></a>
