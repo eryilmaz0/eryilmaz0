@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m Eren Yilmaz</h1>
-<h4 align=center> I am a passionate backend developer who eager to learn new concepts, life-long learner and loves to share projects and new learned skills.</h4> 
+<h3 align=center> I am a passionate backend developer who eager to learn new concepts, life-long learner and loves to share projects and new learned skills.</h3> 
 
 <h2 align=center>Connect With Me</h2>
 <p align="Middle">
