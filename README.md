@@ -6,7 +6,7 @@
 <a href="https://twitter.com/er_yilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_yilmaz0" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/erenyilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenyilmaz0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13793577/eren-y%c4%b1lmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13793577" height="30" width="40" /></a>
-<a href="https://erenyilmaz0.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erenyilmaz0" height="30" width="40" /></a>
+<a href="https://eryilmaz0.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erenyilmaz0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eryilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eryilmaz0" height="30" width="40" /></a>
 </p>
 
